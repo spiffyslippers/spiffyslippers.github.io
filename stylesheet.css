@@ -20,7 +20,7 @@ nav ul /*unordered list in nav bar*/
 	height:50px ;
 	margin: 0 auto; 
 	height: 50px; 
-	width:700px; /* giving space to hold the elements */ 
+	width:600px; /* giving space to hold the elements */ 
 	margin: 0 auto; /*centering it by no margin on the top/bottom auto fit the left and right*/ 
 }
 
