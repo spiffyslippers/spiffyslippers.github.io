@@ -1,6 +1,50 @@
-div#header
+*{  /*reset rules to reset the padding and margins so there are no gaps */ 
+
+	padding: 0;
+	margin: 0; 
+}
+body
 {
+	background-color: #3498db; 
+}
 
-color:red;
+nav /*decorating the navigator bar */ 
+{
+	background-color: #3498db;
+	height:50px; 
 
+}
+
+nav ul /*unordered list in nav bar*/ 
+{ 
+	height:50px ;
+	margin: 0 auto; 
+	height: 50px; 
+	width:600px; /* giving space to hold the elements */ 
+	margin: 0 auto; /*centering it by no margin on the top/bottom auto fit the left and right*/ 
+}
+
+nav ul li  /*list items inside the nav bar */ 
+{
+   list-style-type: : none;   /*get rid of bullets*/ 
+   width: 150px;			  /*width wide enough to hold text*/ 
+   float: left;    			  /*stacking items  by left edges */ 
+   text-align:center;
+   margin: 0 auto; 
+
+}
+
+nav ul li a /*links inside the nav bar */ 
+{
+	text-decoration: none; /*no underlines in the links*/ 
+	color:white;		/*change the link font color */ 
+	line-height: 50px;  /*center it with nav bar */ 
+	display: block; 	/* make them indiviual blocks so that they are all clickable regions*/ 
+
+}
+
+li a:hover  /*links change color when hovered over */ 
+{
+   background-color: #2980b9;
+   text:white;
 }
