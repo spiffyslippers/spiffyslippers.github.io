@@ -37,6 +37,7 @@ nav ul li  /*list items inside the nav bar */
 nav ul li a /*links inside the nav bar */ 
 {
 	font-family:Arial;
+	font-weight: bold;
 	text-decoration: none; /*no underlines in the links*/ 
 	color:white;		/*change the link font color */ 
 	line-height: 50px;  /*center it with nav bar */ 
@@ -64,10 +65,18 @@ IMG.displayed {
 
 }
 
-h1
+h1.name
 {
-	font-family:Arial;
+	font-family:Circula;
 	color:white;
+	text-align: center;
+	text-decoration: none;
+	display: block; 
+}
+h1.slogan
+{
+	font-family:Circula;
+	color:black;
 	text-align: center;
 	text-decoration: none;
 	display: block; 
