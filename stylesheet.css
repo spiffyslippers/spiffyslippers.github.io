@@ -20,7 +20,7 @@ nav ul /*unordered list in nav bar*/
 	height:50px ;
 	margin: 0 auto; 
 	height: 50px; 
-	width:750px; /* giving space to hold the elements */ 
+	width: 750px; /* giving space to hold the elements */ 
 	margin: 0 auto; /*centering it by no margin on the top/bottom auto fit the left and right*/ 
 }
 
@@ -36,6 +36,7 @@ nav ul li  /*list items inside the nav bar */
 
 nav ul li a /*links inside the nav bar */ 
 {
+	font-family:Arial;
 	text-decoration: none; /*no underlines in the links*/ 
 	color:white;		/*change the link font color */ 
 	line-height: 50px;  /*center it with nav bar */ 
@@ -45,6 +46,29 @@ nav ul li a /*links inside the nav bar */
 
 li a:hover  /*links change color when hovered over */ 
 {
+
    background-color: #2980b9;
    text:white;
+}
+
+IMG.displayed {
+
+	height: 330px;
+	width: 330px; 
+ 	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+    padding:50px;
+
+
+}
+
+h1
+{
+	font-family:Arial;
+	color:white;
+	text-align: center;
+	text-decoration: none;
+	display: block; 
 }
