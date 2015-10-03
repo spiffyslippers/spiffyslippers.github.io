@@ -60,9 +60,7 @@ IMG.displayed {
     margin-left: auto;
     margin-right: auto;
     text-decoration: none;
-    padding:50px;
-
-
+    padding: 20px;
 }
 
 h1.name
@@ -80,4 +78,23 @@ h1.slogan
 	text-align: center;
 	text-decoration: none;
 	display: block; 
+}
+h1.intro
+{
+	font-family:Circula;
+	color:black;
+	text-align: center;
+	text-decoration: none;
+	display: block; 
+	font-size: 100; 
+
+}
+h1.intro2
+{
+	font-family:Circula;
+	color:black;
+	text-align: center;
+	text-decoration: none;
+	display: block; 
+
 }
