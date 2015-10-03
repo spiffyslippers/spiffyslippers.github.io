@@ -98,3 +98,14 @@ h1.intro2
 	display: block; 
 
 }
+
+.foo {   
+    background-color: #2980b9;
+    position:relative;
+    padding-top: 30px;
+    padding-bottom:0px;
+    padding: 600;
+	top: 15;
+	left:0;
+	right:0;
+}
