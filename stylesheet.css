@@ -114,12 +114,12 @@ IMG.resumepart1
 {
 
     padding: 20px;
-    position:absolute;
+    position:fixed;
 
 }
 IMG.resumepart2
 {
     padding: 20px;
-    position:absolute;
+    position:fixed;
     
 }
