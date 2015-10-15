@@ -110,16 +110,9 @@ h1.intro2
 	left:0;
 	right:0;
 }
-IMG.resumepart1
-{
 
-    padding: 20px;
-    position:fixed;
-
-}
-IMG.resumepart2
-{
-    padding: 20px;
-    position:fixed;
+#wrapper {
+    margin-left:auto;
+    margin-right:auto;
     
 }
