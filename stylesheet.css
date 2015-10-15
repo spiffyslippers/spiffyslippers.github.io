@@ -6,6 +6,7 @@
 body
 {
 	background-color: #3498db; 
+	
 }
 
 nav /*decorating the navigator bar */ 
@@ -100,7 +101,7 @@ h1.intro2
 }
 
 .foo {   
-    background-color: #2980b9;
+    background-color: #3498db;
     position:relative;
     padding-top: 30px;
     padding-bottom:0px;
@@ -108,4 +109,12 @@ h1.intro2
 	top: 15;
 	left:0;
 	right:0;
+}
+IMG.resumepart1
+{
+
+    padding: 20px;
+
+
+
 }
