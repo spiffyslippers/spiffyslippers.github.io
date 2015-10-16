@@ -110,9 +110,18 @@ h1.intro2
 	left:0;
 	right:0;
 }
+IMG.resumepart1
+{
 
-#wrapper {
-    margin-left:auto;
-    margin-right:auto;
-    
+  position:relative;
+  float:left;
+  
+
 }
+IMG.resumepart2
+{
+    position:relative;
+   float:left;
+
+}
+
