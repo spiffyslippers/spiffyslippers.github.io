@@ -55,8 +55,6 @@ li a:hover  /*links change color when hovered over */
 
 IMG.displayed {
 
-	height: 353px;
-	width: 376px; 
  	display: block;
     margin-left: auto;
     margin-right: auto;
@@ -113,15 +111,14 @@ h1.intro2
 IMG.resumepart1
 {
 
-  position:relative;
-  float:left;
+ 
   
 
 }
 IMG.resumepart2
 {
     position:relative;
-   float:left;
+   
 
 }
 
