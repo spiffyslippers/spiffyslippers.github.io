@@ -18,23 +18,29 @@ body
 	
 }
 
-nav /*decorating the navigator bar */ 
+.nav-menu /*decorating the navigator bar */ 
 {
 	background-color: #3498db;
 	height:50px; 
 
 }
+.nav-menu:hover ul {
 
-nav ul /*unordered list in nav bar*/ 
+    display: block;
+
+  }
+
+.nav-menu ul /*unordered list in nav bar*/ 
 { 
 	height:50px ;
 	margin: 0 auto; 
 	height: 50px; 
 	width: 750px; /* giving space to hold the elements */ 
 	margin: 0 auto; /*centering it by no margin on the top/bottom auto fit the left and right*/ 
+  list-style: none; 
 }
 
-nav ul li  /*list items inside the nav bar */ 
+.nav-menu ul li  /*list items inside the nav bar */ 
 {
    list-style-type: : none;   /*get rid of bullets*/ 
    width: 150px;			  /*width wide enough to hold text*/ 
@@ -44,7 +50,7 @@ nav ul li  /*list items inside the nav bar */
 
 }
 
-nav ul li a /*links inside the nav bar */ 
+.nav-menu ul li a /*links inside the nav bar */ 
 {
 	font-family:Arial;
 	font-weight: bold;
@@ -94,6 +100,16 @@ display: block;
 border:0;
 
 }
+
+
+
+
+.menu-trigger
+{
+  display: none; 
+}
+
+
 
 
 

@@ -1,5 +1,7 @@
 
-@media screen and (min-width:320px){
+/*RESET*/ 
+
+@media screen and (min-width:320px){ 
   
 
 
@@ -12,6 +14,29 @@ IMG.displayed
 
 }
 
+
+.nav-menu ul li 
+{
+
+float:none;
+border-bottom: 2px solid; 
+right:300px;
+position: relative;
+text-align: left;
+display: none; 
+
+}
+
+
+ .nav-menu ul li:last-child 
+{
+	border-bottom: none;
+}
+
+.menu-trigger
+{
+	display: block;
+}
 
 
 
