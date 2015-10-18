@@ -1,3 +1,12 @@
+
+html, body, {
+    position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+}
+
 *{  /*reset rules to reset the padding and margins so there are no gaps */ 
 
 	padding: 0;
@@ -62,41 +71,7 @@ IMG.displayed {
     padding: 20px;
 }
 
-h1.name
-{
-	font-family:Circula;
-	color:white;
-	text-align: center;
-	text-decoration: none;
-	display: block; 
-}
-h1.slogan
-{
-	font-family:Circula;
-	color:black;
-	text-align: center;
-	text-decoration: none;
-	display: block; 
-}
-h1.intro
-{
-	font-family:Circula;
-	color:black;
-	text-align: center;
-	text-decoration: none;
-	display: block; 
-	font-size: 100; 
 
-}
-h1.intro2
-{
-	font-family:Circula;
-	color:black;
-	text-align: center;
-	text-decoration: none;
-	display: block; 
-
-}
 
 .foo {   
     background-color: #3498db;
@@ -115,10 +90,48 @@ IMG.resumepart1
   
 
 }
-IMG.resumepart2
+
+hr
 {
-    position:relative;
-   
+
+background-color:#34495e;
+height:15px;
+display: block;
+border:0;
 
 }
+.boxed 
+{
+display:inline-block;
+height: 100px;
+width:180px;
+background-color:#34495e;
 
+}
+.boxed2
+{
+height: 100px;
+width:180px;
+display:inline-block;
+left:240px;
+position: relative;
+background-color:#34495e;
+
+}
+.boxed3
+{
+height: 100px;
+width:180px;
+display:inline-block;
+left:460px;
+position: relative;
+background-color:#34495e;
+
+}
+IMG.timeline 
+{
+	margin:0;
+	position:relative;
+	top:-100px;
+	left:60px;
+}
