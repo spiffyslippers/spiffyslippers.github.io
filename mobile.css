@@ -5,12 +5,7 @@
   
 
 
-IMG.displayed
-{
- width: auto;
- height:auto; 
 
-}
 
 
 .nav-menu ul li 
@@ -37,5 +32,11 @@ display: none;
 }
 
 
+
+}
+.mobileimage
+{
+	width: 100%;
+	height: 100%; 
 
 }
