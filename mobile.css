@@ -10,6 +10,12 @@ body
 	width: 480px;
 }
 
+IMG.displayed
+{
+
+ left:40px;
+
+}
 
 
 }
