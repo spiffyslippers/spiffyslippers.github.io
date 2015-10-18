@@ -134,4 +134,7 @@ IMG.timeline
 	position:relative;
 	top:-100px;
 	left:60px;
+	z-index:3; 
+
 }
+
