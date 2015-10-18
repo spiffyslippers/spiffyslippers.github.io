@@ -100,41 +100,5 @@ display: block;
 border:0;
 
 }
-.boxed 
-{
-display:inline-block;
-height: 100px;
-width:180px;
-background-color:#34495e;
 
-}
-.boxed2
-{
-height: 100px;
-width:180px;
-display:inline-block;
-left:240px;
-position: relative;
-background-color:#34495e;
-
-}
-.boxed3
-{
-height: 100px;
-width:180px;
-display:inline-block;
-left:460px;
-position: relative;
-background-color:#34495e;
-
-}
-IMG.timeline 
-{
-	margin:0;
-	position:relative;
-	top:-100px;
-	left:60px;
-	z-index:3; 
-
-}
 
