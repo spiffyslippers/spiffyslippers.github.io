@@ -3,19 +3,15 @@
   
 
 
-body
-{
 
-	height: 320px;
-	width: 480px;
-}
 
 IMG.displayed
 {
-
- float:right;
+ left:5000px;
 
 }
+
+
 
 
 }
