@@ -4,7 +4,7 @@
 @media screen and (min-width:320px){ 
   
 
-.nav-menu ul li 
+#nav-menu ul li 
 {
 
 float:none;
@@ -12,17 +12,16 @@ border-bottom: 2px solid;
 right:300px;
 position: relative;
 text-align: left;
-display: none; 
-
+display: none;
 }
 
 
- .nav-menu ul li:last-child 
+ #nav-menu ul li:last-child 
 {
 	border-bottom: none;
 }
 
-.menu-trigger
+#menu-trigger
 {
 	display: block;
 }

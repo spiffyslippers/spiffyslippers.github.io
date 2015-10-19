@@ -1,9 +1,9 @@
-jQuery(document).ready(function(){
+$(document).ready(function() {
 
 
-jQuery(".menu-trigger").click(function() {
+$("#menu-trigger").click(function() {
 
-	jQuery(".nav-menu").slideToggle();
+	$("#nav-menu").slideDown("slow");
 	
 	}); 
 
