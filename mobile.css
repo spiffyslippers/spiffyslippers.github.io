@@ -34,12 +34,9 @@ IMG.displayed {
  	display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: auto;
-    margin-bottom: auto;
     text-decoration: none;
     width: auto;
 	height: auto; 
-	text-align: center; 
 }
 
 
