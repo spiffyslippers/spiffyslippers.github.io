@@ -32,7 +32,10 @@ display: none;
 IMG.displayed {
 
  	display: block;
-    margin:auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
     text-decoration: none;
     width: auto;
 	height: auto; 
