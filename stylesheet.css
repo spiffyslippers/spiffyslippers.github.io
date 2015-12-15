@@ -120,5 +120,5 @@ IMG.aboutmepic
 IMG.whoami
 {
     position: relative; /* Declared position allows for location changes */
-    top: -100px; /* Moves the image 2px closer to the top of the page */
+    top: -400px; /* Moves the image 2px closer to the top of the page */
 }
