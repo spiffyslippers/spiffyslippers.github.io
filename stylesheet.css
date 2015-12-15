@@ -109,7 +109,10 @@ border:0;
 
 IMG.resumepic                /*pic that appears in resume part */ 
 {
-  left: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    left:100px;
 
 }
 
