@@ -111,7 +111,7 @@ border:0;
 IMG.aboutmepic
 {
 
-    display: inline-block;
+    display: block;
     margin-left: auto;
     margin-right: auto;
     text-decoration: none;
@@ -119,6 +119,5 @@ IMG.aboutmepic
 }
 IMG.whoami
 {
-    display:inline-block; /* Declared position allows for location changes */
     top: -250px; /* Moves the image 2px closer to the top of the page */
 }
