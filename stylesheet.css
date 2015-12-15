@@ -77,8 +77,6 @@ IMG.displayed {
     left: 100px;
 }
 
-
-
 .foo {   
     background-color: #3498db;
     position:relative;
@@ -90,7 +88,6 @@ IMG.displayed {
 	right:0;
 }
 
-
 hr
 {
 
@@ -101,12 +98,10 @@ border:0;
 
 }
 
-
 #menu-trigger
 {
   display: none; 
 }
-
 
 IMG.aboutmepic
 {
