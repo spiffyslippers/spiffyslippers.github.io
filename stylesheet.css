@@ -107,7 +107,7 @@ border:0;
   display: none; 
 }
 
-.resumepic                /*pic that appears in resume part */ 
+IMG.resumepic                /*pic that appears in resume part */ 
 {
   left: 100px;
 
