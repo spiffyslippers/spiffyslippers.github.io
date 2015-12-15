@@ -102,18 +102,15 @@ border:0;
 }
 
 
-
-
-
 #menu-trigger
 {
   display: none; 
 }
 
-.resumepic 
+.resumepic                /*pic that appears in resume part */ 
 {
-  margin-left: 40px;
-  
+  margin-left: 100px;
+
 }
 
 
