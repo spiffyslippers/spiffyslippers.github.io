@@ -107,13 +107,10 @@ border:0;
   display: none; 
 }
 
-IMG.resumepic                /*pic that appears in resume part */ 
+
+IMG.resumepic
 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    left:100px;
-
+  height:50px;
+  width:50px;
 }
-
 
