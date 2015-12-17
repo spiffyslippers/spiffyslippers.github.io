@@ -106,7 +106,7 @@ border:0;
 IMG.aboutmepic
 {
 
-position: relative;
+    position: relative;
     display: inline-block;
     text-decoration: none;
     left: 120px;
@@ -120,8 +120,9 @@ IMG.whoami
 
 }
 IMG.myskills 
-{
-  
+{ 
+  position:relative;
   float:right;
+  right:50px;
 }
 
