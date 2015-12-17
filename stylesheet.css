@@ -106,14 +106,17 @@ border:0;
 IMG.aboutmepic
 {
 
+position: relative;
     display: inline-block;
     text-decoration: none;
     left: 120px;
+    top: 30px; 
 }
 IMG.whoami
 {
     top: -300px; /* Moves the image 2px closer to the top of the page */
     float:left;
+
 
 }
 IMG.myskills 
