@@ -106,7 +106,7 @@ border:0;
 IMG.aboutmepic
 {
 
-    display: block;
+    display: inline-block;
     margin-left: auto;
     margin-right: auto;
     text-decoration: none;
@@ -124,9 +124,4 @@ IMG.myskills
   
   float:right;
 }
-IMG.aboutmepic{
 
-float: left;
-
-
-}
