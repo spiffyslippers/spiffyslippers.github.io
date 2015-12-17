@@ -103,20 +103,13 @@ border:0;
   display: none; 
 }
 
-IMG.aboutmepic
-{
 
-    position: relative;
-    display: inline-block;
-    text-decoration: none;
-    left: 120px;
-    top: 30px; 
-}
 IMG.whoami
 {
     
-    left: 300px; 
-    float: left; 
+    position: relative;
+    top:-300;
+    left:100px; 
 
 
 }
