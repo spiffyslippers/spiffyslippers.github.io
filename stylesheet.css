@@ -109,7 +109,7 @@ IMG.whoami
     
     position: relative;
 
-    left:100px; 
+    left:120px; 
 
 
 }
@@ -117,6 +117,6 @@ IMG.myskills
 { 
   position:relative;
   float:right;
-  right:100px;
+  right:160px;
 }
 
