@@ -116,6 +116,13 @@ IMG.whoami
 
 
 }
+IMG.whoami2
+{
+    
+    position: relative; 
+
+
+}
 IMG.myskills 
 { 
   position:absolute;
@@ -129,4 +136,5 @@ IMG.aboutme
   left:20px;
   top:40px;
 }
+
 
