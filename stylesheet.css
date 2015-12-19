@@ -119,4 +119,9 @@ IMG.myskills
   float:right;
   right:300px;
 }
+IMG.aboutme
+{
+  position: relative;
+  float:left;
+}
 
