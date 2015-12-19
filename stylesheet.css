@@ -122,5 +122,6 @@ IMG.myskills
 IMG.aboutme
 {
   position: relative;
+  float:left;
 }
 
