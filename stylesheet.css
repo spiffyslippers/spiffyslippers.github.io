@@ -112,8 +112,8 @@ IMG.whoami
 {
     
     position: absolute;
-
     float: left; 
+    left: 30px; 
 
 
 }
@@ -121,7 +121,7 @@ IMG.myskills
 { 
   position:absolute;
   float:right;
-  right:20px;
+  right:50px;
 }
 IMG.aboutme
 {
