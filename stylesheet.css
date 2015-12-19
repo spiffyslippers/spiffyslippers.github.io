@@ -110,7 +110,6 @@ border:0;
 
 IMG.whoami
 {
-    
     position: absolute;
     left:340px;
 }
@@ -129,11 +128,5 @@ IMG.aboutme
   top:40px;
 }
 
-IMG.whoamitext
-{
-    float: left;
-    
-
-}
 
 
