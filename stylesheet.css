@@ -59,6 +59,13 @@ body
 	line-height: 50px;  /*center it with nav bar */ 
 	display: block; 	/* make them indiviual blocks so that they are all clickable regions*/ 
 
+
+}
+
+#wrapper {
+    margin-left:auto;
+    margin-right:auto;
+    width:960px;
 }
 
 li a:hover  /*links change color when hovered over */ 
