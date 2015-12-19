@@ -115,9 +115,9 @@ IMG.whoami
 }
 IMG.myskills 
 { 
-  position:relative;
+  position:absolute;
   float:right;
-  
+  right:20px;
 }
 IMG.aboutme
 {
