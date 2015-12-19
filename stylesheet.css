@@ -133,14 +133,14 @@ IMG.aboutme
 IMG.whoami2
 {
   left:100px;
-  top:84px;
+  top:90px;
   position: relative;
 }
 IMG.skillsgraph
 {
   float: right;
   position: relative;
-  top:80px;
+  top:90px;
   right:100px;
 }
 
