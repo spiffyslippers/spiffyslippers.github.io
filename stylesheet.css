@@ -133,6 +133,11 @@ IMG.whoami2
   top:60px;
   position: relative;
 }
+IMG.skillsgraph
+{
+  float: right;
+  position: relative;
+}
 
 
 
