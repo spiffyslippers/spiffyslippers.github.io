@@ -5,7 +5,7 @@ html, body, {
     bottom:0;
     left:0;
     right:0;
-    margin:0;
+
 }
 
 *{  /*reset rules to reset the padding and margins so there are no gaps */ 
@@ -63,11 +63,7 @@ body
 
 }
 
-#wrapper {
-    margin-left:auto;
-    margin-right:auto;
-    width:960px;
-}
+
 
 li a:hover  /*links change color when hovered over */ 
 {
