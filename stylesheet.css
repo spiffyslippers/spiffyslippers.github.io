@@ -109,7 +109,7 @@ IMG.whoami
     
     position: relative;
 
-    left:200px; 
+    float: left; 
 
 
 }
