@@ -39,6 +39,7 @@ body
 	width: 750px; /* giving space to hold the elements */ 
 	margin: 0 auto; /*centering it by no margin on the top/bottom auto fit the left and right*/ 
   list-style: none; 
+  text-align: center;
 }
 
 #nav-menu ul li  /*list items inside the nav bar */ 
@@ -59,7 +60,7 @@ body
 	color:white;		/*change the link font color */ 
 	line-height: 50px;  /*center it with nav bar */ 
 	display: block; 	/* make them indiviual blocks so that they are all clickable regions*/ 
-
+text-align: center;
 
 }
 
@@ -129,7 +130,6 @@ IMG.aboutme
   float:left;
   left:20px;
   top:80px;
-  opacity: 0.4;
 }
 IMG.whoami2
 {
