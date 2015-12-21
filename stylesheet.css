@@ -155,8 +155,7 @@ position:relative;
 IMG.phoneicon
 {
 
-top:400px;
-float: left;
+  position: inherit;
 
 
 
