@@ -172,8 +172,8 @@ IMG.mailicon
 }
 IMG.linkedicon
 {
-  position: relative;
-  right:120px;
+  position: inherit;
+
 }
 
 
