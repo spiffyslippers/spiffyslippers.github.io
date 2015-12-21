@@ -141,14 +141,14 @@ IMG.skillsgraph
 {
   float: right;
   position: relative;
-  top:100px;
-  right:150px;
+  top:90px;
+  right:100px;
 }
 IMG.contactme
 {
 
 top:150px;
-right:100px;
+left:150px;
 position:relative;
 
 }
