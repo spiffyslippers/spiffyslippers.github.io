@@ -172,12 +172,10 @@ IMG.mailicon
 }
 IMG.linkedicon
 {
-
-  position:relative;
-
-
-
+  position: relative;
+  right:120px;
 }
+
 
 
 
