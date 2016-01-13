@@ -13,7 +13,7 @@ body {
 }
 
 
-.navbar-default li a  
+.navbar-nav li a  
 {
 
 background:#3498db !important; /*color for nav bar*/ 
@@ -23,7 +23,7 @@ color:white !important;
 }
 
 
-.navbar-default li a:hover
+.navbar-nav li a:hover
  {
  color: #2d8cca;  /*Sets the text hover color on navbar*/
 }
