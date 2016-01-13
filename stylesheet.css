@@ -6,16 +6,17 @@ body {
 
 
 
-.navbar .navbar-nav {
+.navbar .navbar-nav {  /*make the nav bar center on regular window*/ 
     display: inline-block;
     float: none;
 }
 
-.navbar .navbar-collapse {
+.navbar .navbar-collapse {  /*make the nav bar center on mobile window*/ 
     text-align: center;
+
 }
 
-.navbar-default
+.navbar-default  /*navifgation bar*/ 
 {
   background:#3498db !important; 
   border: none !important;
@@ -23,7 +24,7 @@ body {
 
 
 }
-.navbar-nav > li a  
+.navbar-nav > li a   /*link text*/ 
 {
   color:white !important;
 
@@ -31,7 +32,7 @@ body {
 }
 
 
-.navbar-nav > li > a:hover
+.navbar-nav > li > a:hover  /*color changes for links when hovered over*/ 
  {
  background:#2d8cca !important;  /*Sets the text hover color on navbar*/
 }
