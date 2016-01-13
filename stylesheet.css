@@ -10,8 +10,8 @@ body {
 {
 
 background:#3498db !important; /*color for nav bar*/ 
-border: 0;
 color:white !important;
+border:none !important;
 
 }
 
