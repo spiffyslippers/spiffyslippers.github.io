@@ -6,7 +6,8 @@ body {
 
 .navbar
 {
-   background:#3498db !important; /*color for nav bar*/ 
+   background: 0 !important; 
+   color: #333 !important;
    border: 0;
 
 }
