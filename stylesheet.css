@@ -9,7 +9,8 @@ body {
 .navbar-default
 {
   background:#3498db !important; 
-  
+  border: none !important;
+
 }
 .navbar-nav > li a  
 {
