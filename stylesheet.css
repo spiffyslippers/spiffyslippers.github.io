@@ -6,9 +6,14 @@ body {
 
 
 
+.navbar-default
+{
+  background:#3498db !important; 
+  
+}
 .navbar-nav > li a  
 {
-  color:white;
+  color:white !important;
 
 }
 
