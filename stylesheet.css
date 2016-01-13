@@ -7,9 +7,13 @@ body {
 .navbar
 {
    background:#3498db !important; /*color for nav bar*/ 
-   border: none; 
-
-
 
 }
 
+.navbar > li > a 
+{
+
+box-shadow: none !important;
+text-shadow: none !important;
+
+}
