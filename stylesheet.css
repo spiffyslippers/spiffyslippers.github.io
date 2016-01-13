@@ -6,6 +6,15 @@ body {
 
 
 
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
 .navbar-default
 {
   background:#3498db !important; 
@@ -17,9 +26,6 @@ body {
 .navbar-nav > li a  
 {
   color:white !important;
-  display: inline-block !important;
-  float: none !important;
-  vertical-align: top !important;
 
 
 }
