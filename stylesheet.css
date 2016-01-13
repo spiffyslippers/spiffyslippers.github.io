@@ -10,15 +10,16 @@ body {
 {
   background:#3498db !important; 
   border: none !important;
-  display: inline-block;
-  float: none;
-  vertical-align: top;
+
 
 
 }
 .navbar-nav > li a  
 {
   color:white !important;
+  display: inline-block !important;
+  float: none !important;
+  vertical-align: top !important;
 
 
 }
