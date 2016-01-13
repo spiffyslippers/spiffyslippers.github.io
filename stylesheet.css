@@ -15,5 +15,6 @@ body {
 .navbar-default li a  
 {
 
+background:#3498db !important; /*color for nav bar*/ 
 
 }
