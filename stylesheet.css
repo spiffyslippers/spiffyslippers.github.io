@@ -6,13 +6,9 @@ body {
 
 .navbar
 {
-  padding-top: 15px;
-    padding-bottom: 15px;
-    border: 0;
+  background:#3498db
     border-radius: 0;
-    margin-bottom: 0;
-    font-size: 12px;
-    letter-spacing: 5px;
+    
 
 }
 
@@ -20,7 +16,6 @@ body {
 .navbar-default li a 
 {
 
-box-shadow: none !important;
-text-shadow: none !important;
+
 
 }
