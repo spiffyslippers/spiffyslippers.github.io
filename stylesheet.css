@@ -15,5 +15,5 @@ body {
 
 .navbar-nav > li > a:hover
  {
- background-color: #2d8cca;  /*Sets the text hover color on navbar*/
+ background:#2d8cca !important;  /*Sets the text hover color on navbar*/
 }
