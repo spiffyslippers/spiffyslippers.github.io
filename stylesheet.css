@@ -27,6 +27,7 @@ body {
 .navbar-nav > li a   /*link text*/ 
 {
   color:white !important;
+  text-align: center; 
 
 
 }
