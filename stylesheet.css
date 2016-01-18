@@ -5,7 +5,6 @@ body {
 }
 
 
-
 .navbar .navbar-nav {  /*make the nav bar center on regular window*/ 
     display: inline-block;
     float: none;
@@ -31,7 +30,6 @@ body {
 
 
 }
-
 
 .navbar-nav > li > a:hover  /*color changes for links when hovered over*/ 
  {
