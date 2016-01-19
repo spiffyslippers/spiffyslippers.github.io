@@ -49,3 +49,18 @@ body {
   margin-right:200px !important;
 
 }
+
+/* Mobile CSS*/ 
+@media (max-width: 767px) {
+   
+
+.center-block
+{
+
+  margin-right:350px !important;
+
+}
+
+
+
+}
