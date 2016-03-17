@@ -46,8 +46,12 @@ a {
   background-color: transparent;
 }
 a:active,
+{
+  background: #3498db !important;
+}
 a:hover {
   outline: 0;
+
 }
 abbr[title] {
   border-bottom: 1px dotted;
@@ -1102,8 +1106,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #23527c;
-  text-decoration: underline;
+     background-color: #2980b9 !important;
 }
 a:focus {
   outline: thin dotted;
@@ -4511,12 +4514,12 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #777;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #777;
+  color: #3498db;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
   color: #333;
-  background-color: transparent;
+  background-color: #3498db;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
