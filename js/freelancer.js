@@ -36,29 +36,4 @@ $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
 
-//accordian
-//show one @ a time? - data-multiopen=false on the <dl>
-(function($) { 
-  
-var $accordian = $('.accordian'),
-    allowMulti = $accordian.data('multiopen');
-  
-$accordian.find('dt').each(function() {
-  var $t = $(this),
-      $def = $t.next('dd');
-  $t.on('click', function() {
-    var $tt = $(this),
-        $openSibs = $tt.siblings('.is-open'),
-        isOpen = $tt.hasClass('is-open'),
-        slide = isOpen ? 'slideUp' : 'slideDown',
-        dur = isOpen ? 150 : 350;
-    if (!allowMulti && $openSibs.length) {
-      $tt.siblings('.is-open').removeClass('is-open');
-      $tt.siblings('dd').velocity('slideUp',{duration:150});
-    }
-    $def.velocity(slide, {duration:dur});
-    $tt.toggleClass('is-open');
-  });
-});
-  
-});
+
