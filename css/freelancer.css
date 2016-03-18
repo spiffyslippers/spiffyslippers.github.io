@@ -436,3 +436,10 @@ footer .footer-below {
 }
 
 
+@media all and (orientation:portrait) {
+    #info {
+         display: block;
+    }
+}
+
+
