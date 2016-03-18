@@ -435,39 +435,6 @@ footer .footer-below {
     opacity: 0;
 }
 
-@import "bourbon";
 
-
-$blue: #2e8ece;
-$green: #16a085;
-
-*,*:before,*:after {
-  @include box-sizing(border-box);
-}
-header {
-  padding: 20px 10px;
-  text-align: center;
-  h1 {
-    font-size: 1.4em;
-  }
-}
-.wrap {
-  max-width: 35em;
-  margin: 0 auto;
-}
-body {
-  font-family: 'Roboto Slab';
-  line-height: 1.55;
-  color: #474747;
-  background: lighten($blue,50%);
-}
-section {
-  padding: 20px 20px 40px;
-}
-
-
-%pseudo {
-  content:""; display:block; position:absolute;
-}
 
 
