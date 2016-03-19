@@ -152,7 +152,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #2e8ece;
+    background: #2980b9;
 }
 
 section.success a,
@@ -176,7 +176,7 @@ section.success a.active {
 
 #portfolio /*added section to change color of portfolio*/ 
 {
-    background-color: #3498db!important;
+    background-color: #2980b9!important;
 }
 
 
@@ -455,6 +455,10 @@ footer .footer-below {
   border:0!important;
 }
 
+.success2
+{
+    background-color: #3498db!important;
+}
 .panel-heading+.panel-collapse>.panel-body {
   background-color:white!important;
   
@@ -496,11 +500,6 @@ section.success a, section.success a:hover, section.success a:focus, section.suc
 
 }
 
-.bigger /* make things bigger */ 
-{
-    font-size: 150%;
-    color: black;
-}
 
 
 .email
