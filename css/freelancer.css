@@ -436,5 +436,50 @@ footer .footer-below {
 }
 
 
+.panel-primary>.panel-heading
+{
+  
+ background-color:##34495e!important; 
+ border:0!important;
+}
+
+
+.panel-success
+{
+    border:none;
+}
+
+.panel-success>.panel-heading
+{
+  background-color:#34495e;
+  border:0!important;
+}
+
+.panel-heading+.panel-collapse>.panel-body {
+  background-color:white!important;
+  
+}
+  
+.panel-body
+  {
+    color:black; 
+  }
+
+
+.panel-warning
+{
+    border:0;
+}
+.panel-warning>.panel-heading
+{
+  background-color:#34495e;
+  
+}
+
+section.success a, section.success a:hover, section.success a:focus, section.success a:active, section.success a.active
+{
+    color:white!important;
+}
+
 
 
