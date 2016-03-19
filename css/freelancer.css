@@ -500,8 +500,6 @@ section.success a, section.success a:hover, section.success a:focus, section.suc
 
 }
 
-
-
 .email
 {
  
@@ -518,3 +516,28 @@ section.success a, section.success a:hover, section.success a:focus, section.suc
  
 
 }
+
+.button 
+{
+   background-color: #34495e;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  display:inline-block;
+ 
+}
+
+button:hover 
+{
+  background:#2980b9!important;
+}
+
+
+
+
