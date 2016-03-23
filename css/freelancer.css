@@ -508,14 +508,7 @@ section.success a, section.success a:hover, section.success a:focus, section.suc
  
 }
 
-.downloadbutton
-{
-    margin-left: 600px;
-   position: relative;
-   bottom: 60px;
-   right: 15px;
 
-}
 
 button:hover 
 {
