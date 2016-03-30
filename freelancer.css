@@ -144,7 +144,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #2980b9;
+    background: #217dbb;
 }
 
 section.success a,
@@ -168,7 +168,7 @@ section.success a.active {
 
 #portfolio /*added section to change color of portfolio*/ 
 {
-    background-color: #2980b9!important;
+    background-color: #3498db!important;
 }
 
 
@@ -432,7 +432,7 @@ footer .footer-below {
 .panel-primary>.panel-heading
 {
   
- background-color:##34495e!important; 
+ background-color:#34495e!important; 
  border:0!important;
 }
 
@@ -469,7 +469,7 @@ footer .footer-below {
 }
 .panel-warning>.panel-heading
 {
-  background-color:#34495e;
+  background-color:#3498db;
   
 }
 
