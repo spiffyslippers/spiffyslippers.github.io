@@ -509,9 +509,20 @@ section.success a, section.success a:hover, section.success a:focus, section.suc
     float: left;
 }
 
-.progress
-{
-    width: 100px;
+
+
+#left {
+    float: left;
+    text-align: left;
+ 
 }
 
+#center {
+    text-align: center;
+}
 
+#right {
+    float: right;
+    text-align: right;
+   
+}
