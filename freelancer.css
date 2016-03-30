@@ -482,6 +482,7 @@ section.success a, section.success a:hover, section.success a:focus, section.suc
 {
     color:white!important;
     font-family: 'Arial Narrow'!important;
+    position: relative;
 }
 
 .aboutmeheader /* about me header text */ 
@@ -523,8 +524,7 @@ button:hover
 }
 
 
-
-.images {
+.vcenter {
     display: inline-block;
     vertical-align: left;
     float: left;
