@@ -99,6 +99,7 @@ header .intro-text .skills {
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
+        display: inline-block;
     }
 
     .navbar-fixed-top.navbar-shrink {
@@ -527,4 +528,9 @@ section.success a, section.success a:hover, section.success a:focus, section.suc
 .buttonlocation
 {
     text-align: center;
+}
+
+.headerlogo
+{
+    margin:0;
 }
