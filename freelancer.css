@@ -557,3 +557,8 @@ section.success a, section.success a:hover, section.success a:focus, section.suc
     100% { opacity:1; }
 }
 
+.img-responsive 
+{
+    height: 20px;
+    width: 20px;
+}
