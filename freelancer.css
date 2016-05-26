@@ -55,7 +55,7 @@ header .container {
 
 header img {
     display: block;
-    margin: 0 auto 10px;
+    margin: 0 auto 20px;
 }
 
 header .intro-text .name {
@@ -360,8 +360,6 @@ footer .footer-below {
     line-height: 28px;
 }
 
-
-
 .scroll-top .btn:focus {
     outline: 0;
 }
@@ -383,8 +381,7 @@ footer .footer-below {
     font-size: 3em;
 }
 
-.portfolio-modal .modal-content 
- {
+.portfolio-modal .modal-content img {
     margin-bottom: 30px;
 }
 
@@ -514,11 +511,7 @@ section.success a, section.success a:hover, section.success a:focus, section.suc
 }
 
 
-.elemenent 
-{
 
-    font-size:30px!important;
-}
 
 
 
