@@ -55,7 +55,7 @@ header .container {
 
 header img {
     display: block;
-    margin: 0 auto 20px;
+    margin: 0 auto 10px;
 }
 
 header .intro-text .name {
@@ -360,6 +360,8 @@ footer .footer-below {
     line-height: 28px;
 }
 
+
+
 .scroll-top .btn:focus {
     outline: 0;
 }
@@ -381,7 +383,8 @@ footer .footer-below {
     font-size: 3em;
 }
 
-.portfolio-modal .modal-content img {
+.portfolio-modal .modal-content 
+ {
     margin-bottom: 30px;
 }
 
@@ -511,7 +514,11 @@ section.success a, section.success a:hover, section.success a:focus, section.suc
 }
 
 
+.elemenent 
+{
 
+    font-size:30px!important;
+}
 
 
 
@@ -534,3 +541,26 @@ section.success a, section.success a:hover, section.success a:focus, section.suc
 {
     margin:0;
 }
+
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+
