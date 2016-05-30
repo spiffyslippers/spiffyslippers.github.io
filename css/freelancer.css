@@ -482,6 +482,7 @@ section.success a, section.success a:hover, section.success a:focus, section.suc
 {
     color:white!important;
     font-family: 'Arial Narrow'!important;
+    position: relative;
 }
 
 .aboutmeheader /* about me header text */ 
@@ -517,6 +518,15 @@ button:hover
 
 .star-light
 {
-    color:white!important;
+    background-color:white!important;
+    height: 2px;
+    width: 90%;
 }
 
+
+
+.images {
+    display: inline-block;
+    vertical-align: left;
+    float: left;
+}
