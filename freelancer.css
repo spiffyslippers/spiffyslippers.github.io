@@ -76,9 +76,10 @@ hr.star-primary:after {
 }
 
 .center {
-    margin: 0 auto;
+   
     height: auto;
     width:100%;
+    margin:auto;
 }
 
 header {
@@ -459,3 +460,11 @@ footer .footer-below {
     display: none;
     opacity: 0;
 }
+
+.center
+{
+    width: 100%!important;
+    height: auto!important;
+    margin:0!important;
+}
+
