@@ -36,6 +36,13 @@ h6 {
     font-weight: 700;
 }
 
+.help
+{
+    width: 100%;
+    height: auto;
+    margin:0;
+}
+
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
@@ -461,10 +468,4 @@ footer .footer-below {
     opacity: 0;
 }
 
-.center
-{
-    width: 100%!important;
-    height: auto!important;
-    margin:0!important;
-}
 
