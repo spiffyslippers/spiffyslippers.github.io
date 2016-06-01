@@ -35,21 +35,21 @@
 <ul class="sidebar-nav">
     <li class="sidebar-brand">
         <li style="text-align:center; color:white">
-            <h1>Kayla O'Neal</h1>
+           
         </li>
     </li>
     <li>
-        <img style="width:220px" class="sideimage" src="sidelogo.png"/>
+        <img style="width:220px" class="sideimage" src="aboutmepicture2.png"/>
     </li>
     <li>
-       <h3 style="text-align:left; color:white; font-family:'Arial'"> Summary </h3> 
+       <img class="icons" src="bio.png"><h3 style="text-align:left; color:white; font-family:'Arial'"> Summary </h3> 
        <hr> 
    </li>
    <p style="color:white; font-family:'Arial Narrow'; font-size:12pt; text-align:left;">Hello! My name is Kayla O'Neal and I am a senior at Florida State studying Information Technology. I like to 
     dabble in lots of things such as web and application development. I also like to draw and be creative in general. I hope to one day be able to mix my love for art and technology into something wonderful that everyone can use. Thank you for checking out my websumé and feel free to contact me.</p>   
 
 <li>
-    <h3 style="text-align:left; color:white; font-family:'Arial Narrow'"> Contact Me </h3> 
+    <img class="icons" src="phone.png"/><h3 style="text-align:left; color:white; font-family:'Arial Narrow'"> Contact Me </h3> 
     <hr>
 </li>
 <li>
@@ -75,8 +75,16 @@
 <div class="row">
 <div class="col-lg-12">
 
+ 
+    <img class="img-responsive center-block" src="WEBLOGO.png" style="width:25%; height:auto" />
+    <br>
+    
+    <div class="row-fluid"> <div class="span12 text-center"><span style="font-size:14pt">I am </span><span style="font-size:14pt" class="element"></span></div></div><p>
 
-    <a href="#menu-toggle" class="btn btn-default" id="menu-toggle">Click Me!</a>
+    <div class="text-center"><a href="#menu-toggle" class="btn btn-default" id="menu-toggle">Click Here To Learn More!</a></div>
+  
+
+
 
    <!---------------------------------Objective--------------------------> 
 
@@ -188,6 +196,18 @@
             $("#wrapper").toggleClass("toggled");
         });
         </script>
+
+        <script src="jquery.js"></script>
+<script src="typed.js"></script>
+<script>
+    $(function(){
+        $(".element").typed({
+            strings: ["a senior at Florida State University.", "a beginner Web-Developer","a Programmer", "a Artist", "a enthusiastic Learner", "a Team Player", ],
+            typeSpeed: 0,
+            loop: true,
+        });
+    });
+</script>
 
     </body>
 
