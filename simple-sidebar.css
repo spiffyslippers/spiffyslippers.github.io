@@ -6,7 +6,11 @@
 
 /* Toggle Styles */
 
+.speciallink {
 
+
+    color:blue!important;
+}
 
 #wrapper {
     padding-left: 0;
@@ -74,7 +78,7 @@
 
 .sidebar-nav li a:hover {
     text-decoration: none;
-    color: #fff;
+    color: blue!important;
     background: rgba(255,255,255,0.2);
 }
 
@@ -156,10 +160,11 @@
     
 }
 
- .aligncenter
- {
-    margin-right: 0;
-    margin-left: 0;
- }
+
+
+.hr 
+{
+    width: 4%;
+}
 
 
