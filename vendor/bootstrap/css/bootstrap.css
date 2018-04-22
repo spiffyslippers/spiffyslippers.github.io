@@ -4033,6 +4033,12 @@ color:blue;
   padding-left: 8px;
 }
 
+.fab:hover
+{
+  color:blue;
+  padding-left: 8px;
+}
+
 .far
 {
   color:#D3D3D3;
