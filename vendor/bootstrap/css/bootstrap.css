@@ -4045,6 +4045,13 @@ color:blue;
   padding: 8px;
 }
 
+.far:hover
+{
+  color:blue;
+
+}
+
+
 
 
 .navbar-nav .dropdown-menu {
